@@ -1,9 +1,6 @@
 # Menu Demand Forecasting & Promotion-Experiment Analytics for Quick-Service Retail
 
-Built for the **Yum! Brands (Yum India Global Services) Data Scientist Intern**
-application. This is an independent portfolio project using public data — it
-does not use or claim access to any Yum!/KFC/Pizza Hut/Taco Bell/Habit
-internal data.
+
 
 ## 1. Business Problem
 Quick-service restaurant chains run on thin margins where two decisions
