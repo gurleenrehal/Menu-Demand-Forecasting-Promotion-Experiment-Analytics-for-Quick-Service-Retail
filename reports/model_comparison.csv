@@ -1,0 +1,5 @@
+model,MAE,RMSE,MAPE_%
+Baseline (naive: lag_7),16.527,28.314,50.53
+Linear Regression,11.9,19.759,45.1
+Random Forest,10.459,19.225,31.59
+XGBoost,10.397,18.342,32.93
